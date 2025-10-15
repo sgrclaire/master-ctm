@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="fr-FR">
+<head>
+	<title>La page des CTM</title>
+    <meta charset="utf-8">
+</head>
+<body>
+	<h1>Le Master <abbr title="Master parcours Communication, Technologies de la connaissance et Management de l'information">CTM</abbr></h1>
+	<p>
+		<a href="#presentation">Présentation du Master</a>
+		<a href="#bdd">Cours de base de données</a>
+		...
+	</p>
+	<h2 id="presentation">Présentation</h2>
+	<p>Notre Master est <em>pro.</em> et fortement orienté <strong>communication</strong>, il est dispensé à <a href="https://fr.wikipedia.org/wiki/Université_Panthéon-Sorbonne">Panthéon-Sorbonne</a> (Paris 1)</p> et plus spécifiquement à 
+	<a href="https://fr.wikipedia.org/wiki/Centre_Pierre-Mend%C3%A8s-France#Caract%C3%A9ristiques">PMF</a>.
+	<h2>Les cours</h2>
+	
+	<h3 id="veille">La veille</h3>
+	<p>
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum quis libero euismod, maximus purus ut, placerat elit. Nullam ac est et ipsum feugiat suscipit non in orci. Integer egestas viverra dolor, vitae bibendum metus. Aenean tincidunt vestibulum ipsum. Vivamus a convallis nunc, ac sodales lectus. Mauris eget lorem in risus mollis suscipit vel quis nibh. Quisque maximus lacus ut lectus pulvinar sagittis. Fusce lacinia elit ac orci posuere suscipit. Nulla est ex, faucibus nec consequat vitae, iaculis vitae nisl. Nullam ac justo placerat, mattis lorem malesuada, laoreet augue. Duis laoreet metus leo, ut suscipit risus convallis vitae. Phasellus non felis leo. Suspendisse eget ex turpis. Praesent ullamcorper, elit sit amet ornare efficitur, est erat hendrerit nisl, eu placerat tellus sapien non leo. Etiam nec erat sit amet mauris rhoncus pellentesque.
+
+Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Suspendisse maximus tellus sed viverra finibus. Morbi nec lectus a velit tempor molestie in porta dui. Vestibulum nec ipsum fermentum, convallis dolor nec, auctor sapien. Etiam scelerisque lacus ex, tincidunt sodales augue euismod at. Donec iaculis massa at faucibus ultrices. Integer molestie efficitur odio id consectetur. Donec odio ex, molestie sit amet felis eget, auctor cursus quam. Etiam vitae gravida eros, et egestas ante. Curabitur et enim tempor, condimentum enim eget, vulputate dui. Maecenas aliquet massa quis nunc sollicitudin, eu aliquam ligula maximus. Aenean egestas bibendum nisi ac posuere. Ut sed leo vitae risus facilisis mollis vitae sed orci.
+
+Phasellus sed tristique nibh, at rhoncus erat. Proin dolor est, scelerisque nec neque ac, efficitur tempor nisi. Nam convallis vehicula orci, tincidunt pellentesque enim vehicula in. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nulla facilisi. Cras eu diam sed eros faucibus auctor. Sed lacinia orci leo, a auctor urna tincidunt non. Sed. </p>
+	<h3>Droit des médias</h3>
+	<p>
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum quis libero euismod, maximus purus ut, placerat elit. Nullam ac est et ipsum feugiat suscipit non in orci. Integer egestas viverra dolor, vitae bibendum metus. Aenean tincidunt vestibulum ipsum. Vivamus a convallis nunc, ac sodales lectus. Mauris eget lorem in risus mollis suscipit vel quis nibh. Quisque maximus lacus ut lectus pulvinar sagittis. Fusce lacinia elit ac orci posuere suscipit. Nulla est ex, faucibus nec consequat vitae, iaculis vitae nisl. Nullam ac justo placerat, mattis lorem malesuada, laoreet augue. Duis laoreet metus leo, ut suscipit risus convallis vitae. Phasellus non felis leo. Suspendisse eget ex turpis. Praesent ullamcorper, elit sit amet ornare efficitur, est erat hendrerit nisl, eu placerat tellus sapien non leo. Etiam nec erat sit amet mauris rhoncus pellentesque.
+
+Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Suspendisse maximus tellus sed viverra finibus. Morbi nec lectus a velit tempor molestie in porta dui. Vestibulum nec ipsum fermentum, convallis dolor nec, auctor sapien. Etiam scelerisque lacus ex, tincidunt sodales augue euismod at. Donec iaculis massa at faucibus ultrices. Integer molestie efficitur odio id consectetur. Donec odio ex, molestie sit amet felis eget, auctor cursus quam. Etiam vitae gravida eros, et egestas ante. Curabitur et enim tempor, condimentum enim eget, vulputate dui. Maecenas aliquet massa quis nunc sollicitudin, eu aliquam ligula maximus. Aenean egestas bibendum nisi ac posuere. Ut sed leo vitae risus facilisis mollis vitae sed orci.
+
+Phasellus sed tristique nibh, at rhoncus erat. Proin dolor est, scelerisque nec neque ac, efficitur tempor nisi. Nam convallis vehicula orci, tincidunt pellentesque enim vehicula in. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nulla facilisi. Cras eu diam sed eros faucibus auctor. Sed lacinia orci leo, a auctor urna tincidunt non. Sed. </p>
+	<h3>Site web</h3>
+	<p>
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum quis libero euismod, maximus purus ut, placerat elit. Nullam ac est et ipsum feugiat suscipit non in orci. Integer egestas viverra dolor, vitae bibendum metus. Aenean tincidunt vestibulum ipsum. Vivamus a convallis nunc, ac sodales lectus. Mauris eget lorem in risus mollis suscipit vel quis nibh. Quisque maximus lacus ut lectus pulvinar sagittis. Fusce lacinia elit ac orci posuere suscipit. Nulla est ex, faucibus nec consequat vitae, iaculis vitae nisl. Nullam ac justo placerat, mattis lorem malesuada, laoreet augue. Duis laoreet metus leo, ut suscipit risus convallis vitae. Phasellus non felis leo. Suspendisse eget ex turpis. Praesent ullamcorper, elit sit amet ornare efficitur, est erat hendrerit nisl, eu placerat tellus sapien non leo. Etiam nec erat sit amet mauris rhoncus pellentesque.
+
+Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Suspendisse maximus tellus sed viverra finibus. Morbi nec lectus a velit tempor molestie in porta dui. Vestibulum nec ipsum fermentum, convallis dolor nec, auctor sapien. Etiam scelerisque lacus ex, tincidunt sodales augue euismod at. Donec iaculis massa at faucibus ultrices. Integer molestie efficitur odio id consectetur. Donec odio ex, molestie sit amet felis eget, auctor cursus quam. Etiam vitae gravida eros, et egestas ante. Curabitur et enim tempor, condimentum enim eget, vulputate dui. Maecenas aliquet massa quis nunc sollicitudin, eu aliquam ligula maximus. Aenean egestas bibendum nisi ac posuere. Ut sed leo vitae risus facilisis mollis vitae sed orci.
+
+Phasellus sed tristique nibh, at rhoncus erat. Proin dolor est, scelerisque nec neque ac, efficitur tempor nisi. Nam convallis vehicula orci, tincidunt pellentesque enim vehicula in. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nulla facilisi. Cras eu diam sed eros faucibus auctor. Sed lacinia orci leo, a auctor urna tincidunt non. Sed. </p>
+	<h3 id="bdd">Base de données</h3>
+	<p>
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum quis libero euismod, maximus purus ut, placerat elit. Nullam ac est et ipsum feugiat suscipit non in orci. Integer egestas viverra dolor, vitae bibendum metus. Aenean tincidunt vestibulum ipsum. Vivamus a convallis nunc, ac sodales lectus. Mauris eget lorem in risus mollis suscipit vel quis nibh. Quisque maximus lacus ut lectus pulvinar sagittis. Fusce lacinia elit ac orci posuere suscipit. Nulla est ex, faucibus nec consequat vitae, iaculis vitae nisl. Nullam ac justo placerat, mattis lorem malesuada, laoreet augue. Duis laoreet metus leo, ut suscipit risus convallis vitae. Phasellus non felis leo. Suspendisse eget ex turpis. Praesent ullamcorper, elit sit amet ornare efficitur, est erat hendrerit nisl, eu placerat tellus sapien non leo. Etiam nec erat sit amet mauris rhoncus pellentesque.
+
+Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Suspendisse maximus tellus sed viverra finibus. Morbi nec lectus a velit tempor molestie in porta dui. Vestibulum nec ipsum fermentum, convallis dolor nec, auctor sapien. Etiam scelerisque lacus ex, tincidunt sodales augue euismod at. Donec iaculis massa at faucibus ultrices. Integer molestie efficitur odio id consectetur. Donec odio ex, molestie sit amet felis eget, auctor cursus quam. Etiam vitae gravida eros, et egestas ante. Curabitur et enim tempor, condimentum enim eget, vulputate dui. Maecenas aliquet massa quis nunc sollicitudin, eu aliquam ligula maximus. Aenean egestas bibendum nisi ac posuere. Ut sed leo vitae risus facilisis mollis vitae sed orci.
+
+Phasellus sed tristique nibh, at rhoncus erat. Proin dolor est, scelerisque nec neque ac, efficitur tempor nisi. Nam convallis vehicula orci, tincidunt pellentesque enim vehicula in. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nulla facilisi. Cras eu diam sed eros faucibus auctor. Sed lacinia orci leo, a auctor urna tincidunt non. Sed. </p>
+</body>
+</html>
